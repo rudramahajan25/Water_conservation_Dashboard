@@ -7,3 +7,6 @@ Dashboard:
 ![image](https://github.com/user-attachments/assets/fa633a22-e184-44fb-8a54-e0fe551e3c85)
 
 ![image](https://github.com/user-attachments/assets/891b29b6-0aff-4759-85fb-9e57a97f05d3)
+
+Database:
+![image](https://github.com/user-attachments/assets/c3a3b6be-22ad-4a53-b88a-8ac55026142a)
